@@ -4,4 +4,3 @@ IMPORTANT: Only the file main.c is a completely original file, the other two fil
 
 I really appreciate the help from TAs and our professor, Dr.Bernie Roehl, thank you so much!
 
-![Alt text](https://github.com/weiman152/StarsView/blob/master/ScreenShots/1.png)
